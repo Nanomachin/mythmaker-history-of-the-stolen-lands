@@ -1,11 +1,14 @@
 {
   "id": "mythmaker-history-of-the-stolen-lands",
   "title": "Mythmaker : History of the Stolen Lands",
-  "version": "1.0.0",
+  "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "authors": [
     {
       "name": "Nano",
