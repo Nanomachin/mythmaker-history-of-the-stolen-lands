@@ -1,0 +1,127 @@
+{
+  "id": "mythmaker-history-of-the-stolen-lands",
+  "title": "Mythmaker : History of the Stolen Lands",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Nano",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "greenbelt",
+      "label": "Greenbelt",
+      "path": "packs/greenbelt",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "general",
+      "label": "General",
+      "path": "packs/general",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tuskwater",
+      "label": "Tuskwater",
+      "path": "packs/tuskwater",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "kamelands",
+      "label": "Kamelands",
+      "path": "packs/kamelands",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "narlmarches",
+      "label": "Narlmarches",
+      "path": "packs/narlmarches",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "sellen-hills",
+      "label": "Sellen Hills",
+      "path": "packs/sellen-hills",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "dunsward",
+      "label": "Dunsward",
+      "path": "packs/dunsward",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "nomen-heights",
+      "label": "Nomen Heights",
+      "path": "packs/nomen-heights",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "tors-of-levenies",
+      "label": "Tors of Levenies",
+      "path": "packs/tors-of-levenies",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "hooktongue",
+      "label": "Hooktongue",
+      "path": "packs/hooktongue",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}
