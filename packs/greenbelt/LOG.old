@@ -1,3 +1,5 @@
-2025/05/09-20:31:40.171 3ad5c Recovering log #85
-2025/05/09-20:31:40.185 3ad5c Delete type=0 #85
-2025/05/09-20:31:40.185 3ad5c Delete type=3 #83
+2025/05/14-20:56:35.924 5c7c4 Recovering log #89
+2025/05/14-20:56:35.924 5c7c4 Level-0 table #91: started
+2025/05/14-20:56:35.938 5c7c4 Level-0 table #91: 20949 bytes OK
+2025/05/14-20:56:35.952 5c7c4 Delete type=0 #89
+2025/05/14-20:56:35.952 5c7c4 Delete type=3 #88
